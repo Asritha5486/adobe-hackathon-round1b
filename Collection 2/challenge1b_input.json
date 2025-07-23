@@ -1,0 +1,29 @@
+{
+  "challenge_info": {
+    "challenge_id": "round_1b_003",
+    "test_case_name": "acrobat_onboarding"
+  },
+  "documents": [
+    {"filename": "Learn Acrobat - Create and Convert_1.pdf", "title": "Create and Convert 1"},
+    {"filename": "Learn Acrobat - Create and Convert_2.pdf", "title": "Create and Convert 2"},
+    {"filename": "Learn Acrobat - Edit_1.pdf", "title": "Edit 1"},
+    {"filename": "Learn Acrobat - Edit_2.pdf", "title": "Edit 2"},
+    {"filename": "Learn Acrobat - Export_1.pdf", "title": "Export 1"},
+    {"filename": "Learn Acrobat - Export_2.pdf", "title": "Export 2"},
+    {"filename": "Learn Acrobat - Fill and Sign.pdf", "title": "Fill and Sign"},
+    {"filename": "Learn Acrobat - Generative AI_1.pdf", "title": "Generative AI 1"},
+    {"filename": "Learn Acrobat - Generative AI_2.pdf", "title": "Generative AI 2"},
+    {"filename": "Learn Acrobat - Request e-signatures_1.pdf", "title": "Request e-signatures 1"},
+    {"filename": "Learn Acrobat - Request e-signatures_2.pdf", "title": "Request e-signatures 2"},
+    {"filename": "Learn Acrobat - Share_1.pdf", "title": "Share 1"},
+    {"filename": "Learn Acrobat - Share_2.pdf", "title": "Share 2"},
+    {"filename": "Test Your Acrobat Exporting Skills.pdf", "title": "Exporting Skills"},
+    {"filename": "The Ultimate PDF Sharing Checklist", "title": "PDF Sharing Checklist"}
+  ],
+  "persona": {
+    "role": "HR Professional"
+  },
+  "job_to_be_done": {
+    "task": "Create and manage fillable forms for onboarding and compliance"
+  }
+}
