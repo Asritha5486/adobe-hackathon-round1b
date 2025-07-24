@@ -15,25 +15,25 @@
       "Learn Acrobat - Share_1.pdf",
       "Learn Acrobat - Share_2.pdf",
       "Test Your Acrobat Exporting Skills.pdf",
-      "The Ultimate PDF Sharing Checklist"
+      "The Ultimate PDF Sharing Checklist.pdf"
     ],
     "persona": "HR Professional",
     "job_to_be_done": "Create and manage fillable forms for onboarding and compliance",
-    "processing_timestamp": "2025-07-23T15:55:52.703239+00:00"
+    "processing_timestamp": "2025-07-24T17:24:19.909335+00:00"
   },
   "extracted_sections": [
     {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "What\u2019s the best way to create a PDF?",
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "Chrome or Microsoft Edge. AI Assistant is also available on phones through Acrobat mobile",
       "importance_rank": 1,
-      "page_number": 2,
-      "suggested_day": 1,
+      "page_number": 3,
+      "suggested_day": 3,
       "keywords": [
-        "create",
-        "microsoft",
-        "di\ufb00erent",
-        "adobe",
-        "documents"
+        "acrobat",
+        "features",
+        "available",
+        "generative",
+        "chrome"
       ]
     },
     {
@@ -41,7 +41,7 @@
       "section_title": "Method 4: Open the file in its source application and go",
       "importance_rank": 2,
       "page_number": 3,
-      "suggested_day": 1,
+      "suggested_day": 3,
       "keywords": [
         "select",
         "method",
@@ -51,11 +51,95 @@
       ]
     },
     {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "What\u2019s the best way to create a PDF?",
+      "importance_rank": 3,
+      "page_number": 2,
+      "suggested_day": 3,
+      "keywords": [
+        "create",
+        "microsoft",
+        "di\ufb00erent",
+        "adobe",
+        "documents"
+      ]
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "Overview of generative AI features",
+      "importance_rank": 4,
+      "page_number": 2,
+      "suggested_day": 3,
+      "keywords": [
+        "generative",
+        "acrobat",
+        "features",
+        "reader",
+        "content"
+      ]
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "section_title": "Note:",
+      "importance_rank": 5,
+      "page_number": 1,
+      "suggested_day": 3,
+      "keywords": [
+        "history",
+        "generative",
+        "access",
+        "option",
+        "enable"
+      ]
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Add comments while viewing a PDF",
+      "importance_rank": 6,
+      "page_number": 1,
+      "suggested_day": 3,
+      "keywords": [
+        "actions",
+        "comments",
+        "while",
+        "viewing",
+        "quick"
+      ]
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "\u2022 Have you sent the email or shared the link through your",
+      "importance_rank": 7,
+      "page_number": 2,
+      "suggested_day": 3,
+      "keywords": [
+        "email",
+        "clear",
+        "instructions",
+        "sharing",
+        "estate"
+      ]
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "\u2022 Did you enter the email addresses of clients, agents, and other",
+      "importance_rank": 8,
+      "page_number": 3,
+      "suggested_day": 3,
+      "keywords": [
+        "email",
+        "message",
+        "enter",
+        "addresses",
+        "other"
+      ]
+    },
+    {
       "document": "Learn Acrobat - Create and Convert_2.pdf",
       "section_title": "Note: If you select Retain Some Layers In The Selected Page, you\u2019ll be prompted to",
-      "importance_rank": 3,
+      "importance_rank": 9,
       "page_number": 1,
-      "suggested_day": 2,
+      "suggested_day": 3,
       "keywords": [
         "layers",
         "visio",
@@ -67,9 +151,9 @@
     {
       "document": "Learn Acrobat - Create and Convert_2.pdf",
       "section_title": "Note: Visio layers that were selected for conversion and that have Visio settings for",
-      "importance_rank": 4,
+      "importance_rank": 10,
       "page_number": 2,
-      "suggested_day": 3,
+      "suggested_day": 0,
       "keywords": [
         "visio",
         "layers",
@@ -81,9 +165,9 @@
     {
       "document": "Learn Acrobat - Create and Convert_2.pdf",
       "section_title": "Convert AutoCAD files to PDF (Acrobat Pro for",
-      "importance_rank": 5,
+      "importance_rank": 11,
       "page_number": 3,
-      "suggested_day": 0,
+      "suggested_day": 3,
       "keywords": [
         "autocad",
         "files",
@@ -95,7 +179,7 @@
     {
       "document": "Learn Acrobat - Edit_1.pdf",
       "section_title": "Edit text in a PDF",
-      "importance_rank": 6,
+      "importance_rank": 12,
       "page_number": 2,
       "suggested_day": 3,
       "keywords": [
@@ -109,9 +193,9 @@
     {
       "document": "Learn Acrobat - Edit_1.pdf",
       "section_title": "Set the default font for adding and editing text",
-      "importance_rank": 7,
+      "importance_rank": 13,
       "page_number": 3,
-      "suggested_day": 4,
+      "suggested_day": 3,
       "keywords": [
         "default",
         "fonts",
@@ -123,9 +207,9 @@
     {
       "document": "Learn Acrobat - Edit_2.pdf",
       "section_title": "1. Make the desired changes in the app. Bear in mind the following:",
-      "importance_rank": 8,
+      "importance_rank": 14,
       "page_number": 1,
-      "suggested_day": 1,
+      "suggested_day": 0,
       "keywords": [
         "image",
         "change",
@@ -137,9 +221,9 @@
     {
       "document": "Learn Acrobat - Edit_2.pdf",
       "section_title": "Rotate, move, delete, extract, or renumber",
-      "importance_rank": 9,
+      "importance_rank": 15,
       "page_number": 3,
-      "suggested_day": 2,
+      "suggested_day": 3,
       "keywords": [
         "pages",
         "rotate",
@@ -151,7 +235,7 @@
     {
       "document": "Learn Acrobat - Export_1.pdf",
       "section_title": "Export",
-      "importance_rank": 10,
+      "importance_rank": 16,
       "page_number": 2,
       "suggested_day": 3,
       "keywords": [
@@ -165,9 +249,9 @@
     {
       "document": "Learn Acrobat - Export_1.pdf",
       "section_title": "Note:",
-      "importance_rank": 11,
+      "importance_rank": 17,
       "page_number": 3,
-      "suggested_day": 4,
+      "suggested_day": 0,
       "keywords": [
         "acrobat",
         "viewing",
@@ -178,9 +262,9 @@
     {
       "document": "Learn Acrobat - Export_2.pdf",
       "section_title": "Copy images",
-      "importance_rank": 12,
+      "importance_rank": 18,
       "page_number": 1,
-      "suggested_day": 1,
+      "suggested_day": 3,
       "keywords": [
         "select",
         "images",
@@ -192,9 +276,9 @@
     {
       "document": "Learn Acrobat - Export_2.pdf",
       "section_title": "Export objects to separate PDF",
-      "importance_rank": 13,
+      "importance_rank": 19,
       "page_number": 2,
-      "suggested_day": 2,
+      "suggested_day": 0,
       "keywords": [
         "select",
         "objects",
@@ -206,7 +290,7 @@
     {
       "document": "Learn Acrobat - Export_2.pdf",
       "section_title": "Take a snapshot of a page",
-      "importance_rank": 14,
+      "importance_rank": 20,
       "page_number": 3,
       "suggested_day": 3,
       "keywords": [
@@ -220,9 +304,9 @@
     {
       "document": "Learn Acrobat - Fill and Sign.pdf",
       "section_title": "Fill and Sign PDF Forms",
-      "importance_rank": 15,
+      "importance_rank": 21,
       "page_number": 1,
-      "suggested_day": 4,
+      "suggested_day": 3,
       "keywords": [
         "forms",
         "easily",
@@ -234,9 +318,9 @@
     {
       "document": "Learn Acrobat - Fill and Sign.pdf",
       "section_title": "Types of PDF forms",
-      "importance_rank": 16,
+      "importance_rank": 22,
       "page_number": 2,
-      "suggested_day": 1,
+      "suggested_day": 3,
       "keywords": [
         "forms",
         "interactive",
@@ -248,9 +332,9 @@
     {
       "document": "Learn Acrobat - Fill and Sign.pdf",
       "section_title": "Note:",
-      "importance_rank": 17,
+      "importance_rank": 23,
       "page_number": 3,
-      "suggested_day": 2,
+      "suggested_day": 3,
       "keywords": [
         "color",
         "change",
@@ -260,53 +344,11 @@
       ]
     },
     {
-      "document": "Learn Acrobat - Generative AI_1.pdf",
-      "section_title": "Overview of generative AI features",
-      "importance_rank": 18,
-      "page_number": 2,
-      "suggested_day": 3,
-      "keywords": [
-        "generative",
-        "acrobat",
-        "features",
-        "reader",
-        "content"
-      ]
-    },
-    {
-      "document": "Learn Acrobat - Generative AI_1.pdf",
-      "section_title": "Chrome or Microsoft Edge. AI Assistant is also available on phones through Acrobat mobile",
-      "importance_rank": 19,
-      "page_number": 3,
-      "suggested_day": 4,
-      "keywords": [
-        "acrobat",
-        "features",
-        "available",
-        "generative",
-        "chrome"
-      ]
-    },
-    {
-      "document": "Learn Acrobat - Generative AI_2.pdf",
-      "section_title": "Note:",
-      "importance_rank": 20,
-      "page_number": 1,
-      "suggested_day": 1,
-      "keywords": [
-        "history",
-        "generative",
-        "access",
-        "option",
-        "enable"
-      ]
-    },
-    {
       "document": "Learn Acrobat - Generative AI_2.pdf",
       "section_title": "Clear chat history",
-      "importance_rank": 21,
+      "importance_rank": 24,
       "page_number": 2,
-      "suggested_day": 2,
+      "suggested_day": 3,
       "keywords": [
         "clear",
         "select",
@@ -318,7 +360,7 @@
     {
       "document": "Learn Acrobat - Generative AI_2.pdf",
       "section_title": "Your chat history is cleared. You see a message saying - Your chat history was cleared. To",
-      "importance_rank": 22,
+      "importance_rank": 25,
       "page_number": 3,
       "suggested_day": 3,
       "keywords": [
@@ -332,9 +374,9 @@
     {
       "document": "Learn Acrobat - Request e-signatures_1.pdf",
       "section_title": "Send a document to get signatures from",
-      "importance_rank": 23,
+      "importance_rank": 26,
       "page_number": 2,
-      "suggested_day": 4,
+      "suggested_day": 3,
       "keywords": [
         "signatures",
         "document",
@@ -344,25 +386,11 @@
       ]
     },
     {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "section_title": "\u2022",
-      "importance_rank": 24,
-      "page_number": 3,
-      "suggested_day": 1,
-      "keywords": [
-        "click",
-        "specify",
-        "advanced",
-        "options",
-        "signer"
-      ]
-    },
-    {
       "document": "Learn Acrobat - Request e-signatures_2.pdf",
       "section_title": "Adobe LiveCycle Rights Management",
-      "importance_rank": 25,
+      "importance_rank": 27,
       "page_number": 1,
-      "suggested_day": 2,
+      "suggested_day": 1,
       "keywords": [
         "alcrm",
         "servers",
@@ -374,7 +402,7 @@
     {
       "document": "Learn Acrobat - Request e-signatures_2.pdf",
       "section_title": "Set preferences for validating digital signatures",
-      "importance_rank": 26,
+      "importance_rank": 28,
       "page_number": 2,
       "suggested_day": 3,
       "keywords": [
@@ -388,9 +416,9 @@
     {
       "document": "Learn Acrobat - Request e-signatures_2.pdf",
       "section_title": "4. In the 'Signature Verification Preferences' dialog that opens, you can control the",
-      "importance_rank": 27,
+      "importance_rank": 29,
       "page_number": 3,
-      "suggested_day": 4,
+      "suggested_day": 3,
       "keywords": [
         "verification",
         "signatures",
@@ -402,9 +430,9 @@
     {
       "document": "Learn Acrobat - Share_1.pdf",
       "section_title": "Share",
-      "importance_rank": 28,
+      "importance_rank": 30,
       "page_number": 2,
-      "suggested_day": 1,
+      "suggested_day": 3,
       "keywords": [
         "document",
         "share",
@@ -416,9 +444,9 @@
     {
       "document": "Learn Acrobat - Share_1.pdf",
       "section_title": "Add name or email to invite",
-      "importance_rank": 29,
+      "importance_rank": 31,
       "page_number": 3,
-      "suggested_day": 2,
+      "suggested_day": 0,
       "keywords": [
         "email",
         "create",
@@ -429,24 +457,10 @@
     },
     {
       "document": "Learn Acrobat - Share_2.pdf",
-      "section_title": "Add comments while viewing a PDF",
-      "importance_rank": 30,
-      "page_number": 1,
-      "suggested_day": 3,
-      "keywords": [
-        "actions",
-        "comments",
-        "while",
-        "viewing",
-        "quick"
-      ]
-    },
-    {
-      "document": "Learn Acrobat - Share_2.pdf",
       "section_title": "Annotations and drawing markup tools",
-      "importance_rank": 31,
+      "importance_rank": 32,
       "page_number": 2,
-      "suggested_day": 4,
+      "suggested_day": 3,
       "keywords": [
         "drawing",
         "tools",
@@ -458,9 +472,9 @@
     {
       "document": "Learn Acrobat - Share_2.pdf",
       "section_title": "Comment pane",
-      "importance_rank": 32,
+      "importance_rank": 33,
       "page_number": 3,
-      "suggested_day": 1,
+      "suggested_day": 0,
       "keywords": [
         "tools",
         "drawing",
@@ -472,9 +486,9 @@
     {
       "document": "Test Your Acrobat Exporting Skills.pdf",
       "section_title": "Export Expert: Test Your Acrobat Exporting Skills",
-      "importance_rank": 33,
+      "importance_rank": 34,
       "page_number": 1,
-      "suggested_day": 2,
+      "suggested_day": 3,
       "keywords": [
         "exporting",
         "acrobat",
@@ -486,7 +500,7 @@
     {
       "document": "Test Your Acrobat Exporting Skills.pdf",
       "section_title": "16. Yes or No: Can you export a PDF to XML format using Acrobat?",
-      "importance_rank": 34,
+      "importance_rank": 35,
       "page_number": 2,
       "suggested_day": 3,
       "keywords": [
@@ -496,9 +510,35 @@
         "format",
         "snapshot"
       ]
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "The Ultimate PDF Sharing Checklist",
+      "importance_rank": 36,
+      "page_number": 1,
+      "suggested_day": 3,
+      "keywords": [
+        "sharing",
+        "checklist",
+        "acrobat",
+        "ultimate",
+        "breeze"
+      ]
     }
   ],
   "subsection_analysis": [
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "Chrome or Microsoft Edge. AI Assistant is also available on phones through Acrobat mobile",
+      "refined_text": "Chrome or Microsoft Edge. AI Assistant is also available on phones through Acrobat mobile \napps (iOS and Android). It isn't available on iPad or Android tablets.  \n \n \nBenefits of generative AI features \nThe generative AI features in Acrobat and Acrobat Reader significantly improve \ncomprehension, help you get insights, and produce high-quality content quickly. Here are the \nmain benefits. \n \n- \nImproved comprehension: You can better understand complex PDF documents \nbecause the features provide",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Method 4: Open the file in its source application and go",
+      "refined_text": "Method 4: Open the file in its source application and go \nto Print > Adobe PDF printer. \nPaper documents \n(Requires a scanner) \nMethod 1: From the top tools bar, select Create. Then, \nselect Scanner as the file type, select the scanner, and follow \nthrough the steps or browse to locate a pre-scanned page.  \nOr, select the hamburger menu \n (Windows) or \nthe File menu (macOS) > Create from scanner and follow \nthrough the workflow.  \nMicrosoft O\ufb03ce \ndocuments \nMethod 1 (Windows only): From the auth",
+      "page_number": 3
+    },
     {
       "document": "Learn Acrobat - Create and Convert_1.pdf",
       "section_title": "What\u2019s the best way to create a PDF?",
@@ -506,9 +546,33 @@
       "page_number": 2
     },
     {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "Method 4: Open the file in its source application and go",
-      "refined_text": "Method 4: Open the file in its source application and go \nto Print > Adobe PDF printer. \nPaper documents \n(Requires a scanner) \nMethod 1: From the top tools bar, select Create. Then, \nselect Scanner as the file type, select the scanner, and follow \nthrough the steps or browse to locate a pre-scanned page.  \nOr, select the hamburger menu \n (Windows) or \nthe File menu (macOS) > Create from scanner and follow \nthrough the workflow.  \nMicrosoft O\ufb03ce \ndocuments \nMethod 1 (Windows only): From the auth",
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "Overview of generative AI features",
+      "refined_text": "Overview of generative AI features \nUse the generative AI features in Acrobat and Acrobat Reader to quickly scan through \nlengthy, complex PDF content and get answers or generate a summary. \n \nNote: The generative AI features in Acrobat and Acrobat Reader support English, French, \nGerman, Spanish, Italian, Portuguese, or Japanese. To understand the governing terms, \nreview Adobe's Generative AI User Guidelines. To understand Adobe's data handling \npractices, see Content usage and handling practi",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "section_title": "Note:",
+      "refined_text": "Note:  \nThe option Enable generative AI features in Acrobat is displayed only if you \npreviously opted in for the generative AI features.  \nPersistent chat history \nYou can access your conversation threads with Acrobat's AI Assistant across sessions. You can \naccess the chat history whether your files are stored locally or in the cloud. The chat history \nincludes a timeline to trace how your questions and answers evolved. You can also copy and \nsave the entire chat history at a desired location.",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Add comments while viewing a PDF",
+      "refined_text": "Add comments while viewing a PDF \ndocument \nYou can now use quick actions in a floating toolbar to add comments while viewing a PDF. \nThe following quick actions are available for commenting based on your selection in a PDF: \n\u2022 \nActions on text selection: When you select text, you can perform actions like Highlight text, \nUnderline text, Strikethrough text, Redact text, Copy text, and Edit a PDF. \n \n\u2022 \nActions on image selection: When you select an image you can perform actions like \nAdd sticky ",
+      "page_number": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "\u2022 Have you sent the email or shared the link through your",
+      "refined_text": "\u2022 Have you sent the email or shared the link through your \nchosen platform? \n\u2022  Follow Up \n\u2022 Are you tracking who has accessed the document and \nfollowing up as needed? \nProfessional Tip: Clear Instructions \nEnsure your email instructions are clear and concise to avoid any \nconfusion for your recipients. \n \nSharing Checklist for Real Estate Professionals \nIn the real estate industry, sharing documents efficiently is crucial for \nclosing deals and keeping clients informed. Here's a tailored check",
+      "page_number": 2
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "\u2022 Did you enter the email addresses of clients, agents, and other",
+      "refined_text": "\u2022 Did you enter the email addresses of clients, agents, and other \nstakeholders? \n\u2022  Customize Your Message \n\u2022 Have you added a personal touch to the subject and message \nfields, highlighting key property details? \n\u2022  Create and Share the Link \n\u2022 Did you generate a shareable link and copy it for distribution? \n\u2022  Send the Invitation \n\u2022 Have you sent the email or shared the link through your \nchosen platform? \n\u2022  Follow Up \n\u2022 Are you tracking who has accessed the document and \nfollowing up with c",
       "page_number": 3
     },
     {
@@ -602,24 +666,6 @@
       "page_number": 3
     },
     {
-      "document": "Learn Acrobat - Generative AI_1.pdf",
-      "section_title": "Overview of generative AI features",
-      "refined_text": "Overview of generative AI features \nUse the generative AI features in Acrobat and Acrobat Reader to quickly scan through \nlengthy, complex PDF content and get answers or generate a summary. \n \nNote: The generative AI features in Acrobat and Acrobat Reader support English, French, \nGerman, Spanish, Italian, Portuguese, or Japanese. To understand the governing terms, \nreview Adobe's Generative AI User Guidelines. To understand Adobe's data handling \npractices, see Content usage and handling practi",
-      "page_number": 2
-    },
-    {
-      "document": "Learn Acrobat - Generative AI_1.pdf",
-      "section_title": "Chrome or Microsoft Edge. AI Assistant is also available on phones through Acrobat mobile",
-      "refined_text": "Chrome or Microsoft Edge. AI Assistant is also available on phones through Acrobat mobile \napps (iOS and Android). It isn't available on iPad or Android tablets.  \n \n \nBenefits of generative AI features \nThe generative AI features in Acrobat and Acrobat Reader significantly improve \ncomprehension, help you get insights, and produce high-quality content quickly. Here are the \nmain benefits. \n \n- \nImproved comprehension: You can better understand complex PDF documents \nbecause the features provide",
-      "page_number": 3
-    },
-    {
-      "document": "Learn Acrobat - Generative AI_2.pdf",
-      "section_title": "Note:",
-      "refined_text": "Note:  \nThe option Enable generative AI features in Acrobat is displayed only if you \npreviously opted in for the generative AI features.  \nPersistent chat history \nYou can access your conversation threads with Acrobat's AI Assistant across sessions. You can \naccess the chat history whether your files are stored locally or in the cloud. The chat history \nincludes a timeline to trace how your questions and answers evolved. You can also copy and \nsave the entire chat history at a desired location.",
-      "page_number": 1
-    },
-    {
       "document": "Learn Acrobat - Generative AI_2.pdf",
       "section_title": "Clear chat history",
       "refined_text": "Clear chat history \nYou can clear the chat history and ensure that the AI Assistant treats the document as new so \nyou can ask fresh questions.  \n \nTo clear chat history: \n1. Open the document for which you wish to clear the chat history. Select   in the upper \nright.  \n2. Select Clear chat history. A confirmation dialog box will appear, asking you to confirm \nyour selection. Select Clear history. If you don't want to clear your chat history, \nselect Cancel. \n \nClear chat history from the AI ass",
@@ -636,12 +682,6 @@
       "section_title": "Send a document to get signatures from",
       "refined_text": "Send a document to get signatures from \nothers \n1. Open the PDF form in Acrobat or Acrobat Reader, and then choose All \ntools > Request E-signatures. Alternatively, you can select Sign from the top toolbar. \n2. The Request Signatures window is displayed. It displays the fields progressively as you \nenter the details. The left pane provides information on getting signatures from others \nworkflow. In the recipients field, add recipient email addresses in the order you want \nthe document to be sign",
       "page_number": 2
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "section_title": "\u2022",
-      "refined_text": "\u2022 \n(Optional) To explore advanced options including signer authentication, reminders, \nand more, click More Options. \n\u2022 \nTo add form fields and specify where to sign, click Specify where to sign. \nRequest signatures \u2013 Add Cc, subject, message, More Options \n\u2022 \nIf you don't want to use the More Options, skip the next optional step. \n4. (Optional) Click More Options, if you want to specify advanced options, such as signer \nauthentication, reminders, and more. \n\u2022 \nBy default, the Complete in Order ",
-      "page_number": 3
     },
     {
       "document": "Learn Acrobat - Request e-signatures_2.pdf",
@@ -675,12 +715,6 @@
     },
     {
       "document": "Learn Acrobat - Share_2.pdf",
-      "section_title": "Add comments while viewing a PDF",
-      "refined_text": "Add comments while viewing a PDF \ndocument \nYou can now use quick actions in a floating toolbar to add comments while viewing a PDF. \nThe following quick actions are available for commenting based on your selection in a PDF: \n\u2022 \nActions on text selection: When you select text, you can perform actions like Highlight text, \nUnderline text, Strikethrough text, Redact text, Copy text, and Edit a PDF. \n \n\u2022 \nActions on image selection: When you select an image you can perform actions like \nAdd sticky ",
-      "page_number": 1
-    },
-    {
-      "document": "Learn Acrobat - Share_2.pdf",
       "section_title": "Annotations and drawing markup tools",
       "refined_text": "Annotations and drawing markup tools \noverview \nNote: In Acrobat Reader, complete commenting tools are available only in PDFs \nwith commenting enabled. \nYou can use annotation and drawing markup tools to add comments. Comments are notes \nand drawings that communicate ideas or provide feedback for PDFs. You can type a text \nmessage using the Add text comment tool. Alternatively, you can use a drawing tool to add a \nline, circle, or other shape and then type a message in the associated pop-up note",
       "page_number": 2
@@ -702,6 +736,12 @@
       "section_title": "16. Yes or No: Can you export a PDF to XML format using Acrobat?",
       "refined_text": "16. Yes or No: Can you export a PDF to XML format using Acrobat? \n17. True or False: You can use the Snapshot tool to copy selected content as an image. \n18. Scenario: You're a web developer who needs to export a PDF to HTML for your website. \nDo you use the \"Convert to HTML\" option or manually code the content? \n19. Yes or No: Can you select and copy text and images from a PDF using the Select tool? \n20. True or False: The Autosave feature is disabled by default in Acrobat.",
       "page_number": 2
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "The Ultimate PDF Sharing Checklist",
+      "refined_text": "The Ultimate PDF Sharing Checklist \nSharing PDFs can be a breeze with Adobe Acrobat. Whether you're \ncollaborating on a project, seeking feedback, or simply distributing \ninformation, this checklist will ensure you cover all the bases. Let's dive \ninto the essentials of sharing PDFs effectively. \nGeneral Sharing Checklist \n\u2022  Open Your PDF \n\u2022 Have you launched Acrobat or Acrobat Reader and opened \nthe PDF you want to share? \n\u2022  Choose Your Sharing Method \n\u2022 Are you sharing via email, link, or a ",
+      "page_number": 1
     }
   ]
 }

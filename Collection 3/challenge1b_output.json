@@ -13,7 +13,7 @@
     ],
     "persona": "Food Contractor",
     "job_to_be_done": "Prepare vegetarian buffet-style dinner menu for corporate gathering",
-    "processing_timestamp": "2025-07-23T15:55:53.038469+00:00"
+    "processing_timestamp": "2025-07-24T17:24:20.263347+00:00"
   },
   "extracted_sections": [
     {
@@ -21,7 +21,7 @@
       "section_title": "Pancakes",
       "importance_rank": 1,
       "page_number": 2,
-      "suggested_day": 1,
+      "suggested_day": 0,
       "keywords": [
         "teaspoon",
         "baking",
@@ -31,151 +31,11 @@
       ]
     },
     {
-      "document": "Breakfast Ideas.pdf",
-      "section_title": "\u2022",
-      "importance_rank": 2,
-      "page_number": 3,
-      "suggested_day": 1,
-      "keywords": [
-        "bread",
-        "teaspoon",
-        "ground",
-        "cinnamon",
-        "tablespoon"
-      ]
-    },
-    {
-      "document": "Dinner Ideas - Mains_1.pdf",
-      "section_title": "Beef Stroganoff",
-      "importance_rank": 3,
-      "page_number": 2,
-      "suggested_day": 2,
-      "keywords": [
-        "sliced",
-        "diced",
-        "minced",
-        "tablespoons",
-        "butter"
-      ]
-    },
-    {
-      "document": "Dinner Ideas - Mains_1.pdf",
-      "section_title": "\uf0b7",
-      "importance_rank": 4,
-      "page_number": 3,
-      "suggested_day": 3,
-      "keywords": [
-        "diced",
-        "teaspoon",
-        "dried",
-        "place",
-        "chicken"
-      ]
-    },
-    {
-      "document": "Dinner Ideas - Mains_2.pdf",
-      "section_title": "\uf0b7",
-      "importance_rank": 5,
-      "page_number": 1,
-      "suggested_day": 0,
-      "keywords": [
-        "teaspoon",
-        "olive",
-        "vegetables",
-        "thyme",
-        "rosemary"
-      ]
-    },
-    {
-      "document": "Dinner Ideas - Mains_2.pdf",
-      "section_title": "\uf0b7",
-      "importance_rank": 6,
-      "page_number": 2,
-      "suggested_day": 3,
-      "keywords": [
-        "until",
-        "chopped",
-        "green",
-        "sliced",
-        "bacon"
-      ]
-    },
-    {
-      "document": "Dinner Ideas - Mains_2.pdf",
-      "section_title": "\uf0b7",
-      "importance_rank": 7,
-      "page_number": 3,
-      "suggested_day": 4,
-      "keywords": [
-        "tablespoons",
-        "teaspoon",
-        "diced",
-        "shredded",
-        "cheese"
-      ]
-    },
-    {
-      "document": "Dinner Ideas - Mains_3.pdf",
-      "section_title": "\uf0b7",
-      "importance_rank": 8,
-      "page_number": 1,
-      "suggested_day": 1,
-      "keywords": [
-        "sauce",
-        "tablespoons",
-        "hoisin",
-        "teaspoon",
-        "return"
-      ]
-    },
-    {
-      "document": "Dinner Ideas - Mains_3.pdf",
-      "section_title": "Quiche Lorraine",
-      "importance_rank": 9,
-      "page_number": 2,
-      "suggested_day": 2,
-      "keywords": [
-        "crust",
-        "cooked",
-        "diced",
-        "grated",
-        "gruy\u00e8re"
-      ]
-    },
-    {
-      "document": "Dinner Ideas - Mains_3.pdf",
-      "section_title": "Roast Beef",
-      "importance_rank": 10,
-      "page_number": 3,
-      "suggested_day": 3,
-      "keywords": [
-        "chopped",
-        "roast",
-        "minced",
-        "tablespoon",
-        "fresh"
-      ]
-    },
-    {
-      "document": "Dinner Ideas - Sides_1.pdf",
-      "section_title": "Acaraj\u00e9",
-      "importance_rank": 11,
-      "page_number": 2,
-      "suggested_day": 4,
-      "keywords": [
-        "until",
-        "acaraj\u00e9",
-        "small",
-        "onion",
-        "cloves"
-      ]
-    },
-    {
       "document": "Dinner Ideas - Sides_1.pdf",
       "section_title": "o Add potatoes and cauliflower, stir to coat with spices.",
-      "importance_rank": 12,
+      "importance_rank": 2,
       "page_number": 3,
-      "suggested_day": 1,
+      "suggested_day": 4,
       "keywords": [
         "ground",
         "teaspoon",
@@ -185,11 +45,53 @@
       ]
     },
     {
-      "document": "Dinner Ideas - Sides_2.pdf",
-      "section_title": "Churros",
-      "importance_rank": 13,
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "section_title": "o Scramble eggs in the same pan.",
+      "importance_rank": 3,
       "page_number": 1,
       "suggested_day": 2,
+      "keywords": [
+        "green",
+        "chopped",
+        "onions",
+        "tablespoon",
+        "scramble"
+      ]
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Beef Stroganoff",
+      "importance_rank": 4,
+      "page_number": 2,
+      "suggested_day": 0,
+      "keywords": [
+        "sliced",
+        "diced",
+        "minced",
+        "tablespoons",
+        "butter"
+      ]
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "Acaraj\u00e9",
+      "importance_rank": 5,
+      "page_number": 2,
+      "suggested_day": 0,
+      "keywords": [
+        "until",
+        "acaraj\u00e9",
+        "small",
+        "onion",
+        "cloves"
+      ]
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Churros",
+      "importance_rank": 6,
+      "page_number": 1,
+      "suggested_day": 3,
       "keywords": [
         "water",
         "butter",
@@ -201,9 +103,9 @@
     {
       "document": "Dinner Ideas - Sides_2.pdf",
       "section_title": "Cornbread",
-      "importance_rank": 14,
+      "importance_rank": 7,
       "page_number": 2,
-      "suggested_day": 3,
+      "suggested_day": 0,
       "keywords": [
         "baking",
         "until",
@@ -213,37 +115,9 @@
       ]
     },
     {
-      "document": "Dinner Ideas - Sides_2.pdf",
-      "section_title": "o 2 tablespoons butter",
-      "importance_rank": 15,
-      "page_number": 3,
-      "suggested_day": 4,
-      "keywords": [
-        "butter",
-        "b\u00e9chamel",
-        "sauce",
-        "until",
-        "tablespoons"
-      ]
-    },
-    {
-      "document": "Dinner Ideas - Sides_3.pdf",
-      "section_title": "o 2 cloves garlic",
-      "importance_rank": 16,
-      "page_number": 1,
-      "suggested_day": 1,
-      "keywords": [
-        "teaspoon",
-        "garlic",
-        "vegetable",
-        "cilantro",
-        "diced"
-      ]
-    },
-    {
       "document": "Dinner Ideas - Sides_3.pdf",
       "section_title": "Hummus",
-      "importance_rank": 17,
+      "importance_rank": 8,
       "page_number": 2,
       "suggested_day": 2,
       "keywords": [
@@ -255,39 +129,11 @@
       ]
     },
     {
-      "document": "Dinner Ideas - Sides_3.pdf",
-      "section_title": "o 1/4 cup olive oil",
-      "importance_rank": 18,
-      "page_number": 3,
-      "suggested_day": 3,
-      "keywords": [
-        "until",
-        "olive",
-        "baking",
-        "butter",
-        "vegetables"
-      ]
-    },
-    {
-      "document": "Dinner Ideas - Sides_4.pdf",
-      "section_title": "o Scramble eggs in the same pan.",
-      "importance_rank": 19,
-      "page_number": 1,
-      "suggested_day": 4,
-      "keywords": [
-        "green",
-        "chopped",
-        "onions",
-        "tablespoon",
-        "scramble"
-      ]
-    },
-    {
       "document": "Dinner Ideas - Sides_4.pdf",
       "section_title": "o 1 teaspoon salt",
-      "importance_rank": 20,
+      "importance_rank": 9,
       "page_number": 2,
-      "suggested_day": 1,
+      "suggested_day": 3,
       "keywords": [
         "paneer",
         "teaspoon",
@@ -299,9 +145,9 @@
     {
       "document": "Dinner Ideas - Sides_4.pdf",
       "section_title": "o 1/2 cup tomato sauce",
-      "importance_rank": 21,
+      "importance_rank": 10,
       "page_number": 3,
-      "suggested_day": 2,
+      "suggested_day": 3,
       "keywords": [
         "tomato",
         "teaspoon",
@@ -313,7 +159,7 @@
     {
       "document": "Lunch Ideas.pdf",
       "section_title": "Chicken Caesar Wrap",
-      "importance_rank": 22,
+      "importance_rank": 11,
       "page_number": 2,
       "suggested_day": 3,
       "keywords": [
@@ -327,15 +173,85 @@
     {
       "document": "Lunch Ideas.pdf",
       "section_title": "Greek Yogurt Parfait",
-      "importance_rank": 23,
+      "importance_rank": 12,
       "page_number": 3,
-      "suggested_day": 4,
+      "suggested_day": 0,
       "keywords": [
         "greek",
         "yogurt",
         "mixed",
         "hummus",
         "sliced"
+      ]
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Quiche Lorraine",
+      "importance_rank": 13,
+      "page_number": 2,
+      "suggested_day": 2,
+      "keywords": [
+        "crust",
+        "cooked",
+        "diced",
+        "grated",
+        "gruy\u00e8re"
+      ]
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Roast Beef",
+      "importance_rank": 14,
+      "page_number": 3,
+      "suggested_day": 3,
+      "keywords": [
+        "chopped",
+        "roast",
+        "minced",
+        "tablespoon",
+        "fresh"
+      ]
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "o 2 tablespoons butter",
+      "importance_rank": 15,
+      "page_number": 3,
+      "suggested_day": 0,
+      "keywords": [
+        "butter",
+        "b\u00e9chamel",
+        "sauce",
+        "until",
+        "tablespoons"
+      ]
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "o 2 cloves garlic",
+      "importance_rank": 16,
+      "page_number": 1,
+      "suggested_day": 0,
+      "keywords": [
+        "teaspoon",
+        "garlic",
+        "vegetable",
+        "cilantro",
+        "diced"
+      ]
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "o 1/4 cup olive oil",
+      "importance_rank": 17,
+      "page_number": 3,
+      "suggested_day": 3,
+      "keywords": [
+        "until",
+        "olive",
+        "baking",
+        "butter",
+        "vegetables"
       ]
     }
   ],
@@ -347,10 +263,16 @@
       "page_number": 2
     },
     {
-      "document": "Breakfast Ideas.pdf",
-      "section_title": "\u2022",
-      "refined_text": "\u2022 \n1/2 teaspoon ground cinnamon \n\u2022 \n1 tablespoon butter \nInstructions: \n\u2022 \nIn a shallow dish, whisk together eggs, milk, vanilla extract, and cinnamon. \n\u2022 \nDip each slice of bread into the egg mixture, coating both sides. \n\u2022 \nHeat a non-stick skillet over medium heat and melt the butter. \n\u2022 \nCook the bread slices until golden brown on both sides. \n\u2022 \nServe with syrup and powdered sugar. \n \n \n \nSmoothie Bowl \nIngredients: \n\u2022 \n1 banana \n\u2022 \n1/2 cup frozen berries \n\u2022 \n1/2 cup Greek yogurt \n\u2022 \n1/4 cu",
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "o Add potatoes and cauliflower, stir to coat with spices.",
+      "refined_text": "o Add potatoes and cauliflower, stir to coat with spices. \no Cover and cook until vegetables are tender, stirring occasionally. \no Add salt to taste and serve. \n \nAlbondigas \n\uf0b7 \nIngredients: \no 1/2 pound ground beef \no 1/2 pound ground pork \no 1 small onion \no 2 cloves garlic \no 1/4 cup breadcrumbs \no 1 egg \no 1 teaspoon paprika \no 1 teaspoon salt \no 1/2 teaspoon pepper \no 1/4 cup olive oil \no 1 cup tomato sauce \n\uf0b7 \nInstructions: \no Mix ground beef, ground pork, diced onion, minced garlic, bread",
       "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "section_title": "o Scramble eggs in the same pan.",
+      "refined_text": "o Scramble eggs in the same pan. \no Add noodles, fish sauce, tamarind paste, sugar, and lime juice, stir to combine. \no Add bean sprouts, cooked shrimp, and chopped green onions. \no Garnish with crushed peanuts and serve. \n \nPajeon (Pancakes) \n\uf0b7 \nIngredients: \no 1 cup flour \no 1 cup water \no 1 egg \no 1/2 cup green onions \no 1/2 cup seafood (optional) \no 1 tablespoon soy sauce \no 1 tablespoon sesame oil \n\uf0b7 \nInstructions: \no Mix flour, water, and beaten egg in a bowl. \no Add chopped green onions a",
+      "page_number": 1
     },
     {
       "document": "Dinner Ideas - Mains_1.pdf",
@@ -359,58 +281,10 @@
       "page_number": 2
     },
     {
-      "document": "Dinner Ideas - Mains_1.pdf",
-      "section_title": "\uf0b7",
-      "refined_text": "\uf0b7 \nPlace chicken in a baking dish, top with marinara sauce and shredded mozzarella cheese. \n\uf0b7 \nBake for 20-25 minutes until cheese is melted and bubbly. \n\uf0b7 \nServe warm. \n \n \n \nSpaghetti Bolognese \nIngredients: \n\uf0b7 \n1 pound ground beef \n\uf0b7 \n1 small onion, diced \n\uf0b7 \n2 cloves garlic, minced \n\uf0b7 \n1 carrot, grated \n\uf0b7 \n1 celery stalk, diced \n\uf0b7 \n1 can (28 ounces) crushed tomatoes \n\uf0b7 \n1/4 cup tomato paste \n\uf0b7 \n1/2 cup red wine (optional) \n\uf0b7 \n1 teaspoon dried oregano \n\uf0b7 \n1 teaspoon dried basil \n\uf0b7 \nSalt and p",
-      "page_number": 3
-    },
-    {
-      "document": "Dinner Ideas - Mains_2.pdf",
-      "section_title": "\uf0b7",
-      "refined_text": "\uf0b7 \n1 teaspoon thyme \n\uf0b7 \n1 teaspoon rosemary \n\uf0b7 \n1/4 cup olive oil \n\uf0b7 \nSalt and pepper to taste \nInstructions: \n\uf0b7 \nPreheat oven to 375\u00b0F (190\u00b0C). \n\uf0b7 \nIn a large baking dish, layer diced eggplant, zucchini, bell pepper, onion, and tomatoes. \n\uf0b7 \nIn a bowl, mix minced garlic, olive oil, thyme, rosemary, salt, and pepper. \n\uf0b7 \nPour the mixture over the vegetables and toss to coat. \n\uf0b7 \nBake for 45 minutes until vegetables are tender. \n\uf0b7 \nServe warm. \n \n \n \nRoast Chicken \nIngredients: \n\uf0b7 \n1 whole chicke",
-      "page_number": 1
-    },
-    {
-      "document": "Dinner Ideas - Mains_2.pdf",
-      "section_title": "\uf0b7",
-      "refined_text": "\uf0b7 \n1/4 cup bacon, chopped \n\uf0b7 \n1/4 cup green onions, sliced \n\uf0b7 \nSalt and pepper to taste \nInstructions: \n\uf0b7 \nIn a pot, bring water to a boil and stir in grits. \n\uf0b7 \nReduce heat and simmer until thickened, then stir in shredded cheddar cheese and \nbutter. \n\uf0b7 \nIn a skillet, cook chopped bacon until crispy, then set aside. \n\uf0b7 \nIn the same skillet, saut\u00e9 diced onion and minced garlic until softened. \n\uf0b7 \nAdd shrimp and cook until pink and opaque. \n\uf0b7 \nStir in cooked bacon and sliced green onions. \n\uf0b7 \nSer",
-      "page_number": 2
-    },
-    {
-      "document": "Dinner Ideas - Mains_2.pdf",
-      "section_title": "\uf0b7",
-      "refined_text": "\uf0b7 \n1 cup shredded cheese \n\uf0b7 \n1 teaspoon oregano \n\uf0b7 \n1 teaspoon basil \n\uf0b7 \n2 tablespoons olive oil \n\uf0b7 \nSalt and pepper to taste \n \n \n \nSweet and Sour Pork \nIngredients: \n\uf0b7 \n1 pound pork tenderloin, cubed \n\uf0b7 \n1 bell pepper, diced \n\uf0b7 \n1 small onion, diced \n\uf0b7 \n1/2 cup pineapple chunks \n\uf0b7 \n1/4 cup ketchup \n\uf0b7 \n1/4 cup rice vinegar \n\uf0b7 \n1/4 cup soy sauce \n\uf0b7 \n1/4 cup brown sugar \n\uf0b7 \n2 tablespoons cornstarch \n\uf0b7 \n2 tablespoons vegetable oil \n\uf0b7 \nCooked rice for serving \nInstructions: \n\uf0b7 \nIn a bowl, toss pork",
-      "page_number": 3
-    },
-    {
-      "document": "Dinner Ideas - Mains_3.pdf",
-      "section_title": "\uf0b7",
-      "refined_text": "\uf0b7 \nReturn chicken to the skillet and cook until heated through. \n\uf0b7 \nServe warm. \n \n \n \nPeking Duck \nIngredients: \n\uf0b7 \n1 whole duck \n\uf0b7 \n1/4 cup soy sauce \n\uf0b7 \n1/4 cup honey \n\uf0b7 \n2 tablespoons hoisin sauce \n\uf0b7 \n2 tablespoons rice vinegar \n\uf0b7 \n2 cloves garlic, minced \n\uf0b7 \n1 teaspoon five-spice powder \n\uf0b7 \n1 teaspoon grated ginger \n\uf0b7 \n1/4 cup green onions, sliced \n\uf0b7 \nMandarin pancakes for serving \nInstructions: \n\uf0b7 \nPreheat oven to 375\u00b0F (190\u00b0C). \n\uf0b7 \nIn a bowl, mix soy sauce, honey, hoisin sauce, rice vineg",
-      "page_number": 1
-    },
-    {
-      "document": "Dinner Ideas - Mains_3.pdf",
-      "section_title": "Quiche Lorraine",
-      "refined_text": "Quiche Lorraine \nIngredients: \n\uf0b7 \n1 pie crust \n\uf0b7 \n6 slices bacon, cooked and crumbled \n\uf0b7 \n1 small onion, diced \n\uf0b7 \n1 cup grated Gruy\u00e8re cheese \n\uf0b7 \n3 eggs \n\uf0b7 \n1 cup heavy cream \n\uf0b7 \n1/2 teaspoon salt \n\uf0b7 \n1/4 teaspoon pepper \nInstructions: \n\uf0b7 \nPreheat oven to 375\u00b0F (190\u00b0C). \n\uf0b7 \nPlace pie crust in a pie dish. \n\uf0b7 \nSprinkle cooked bacon, diced onion, and grated Gruy\u00e8re cheese over the crust. \n\uf0b7 \nIn a bowl, whisk eggs, heavy cream, salt, and pepper. \n\uf0b7 \nPour egg mixture over the filling. \n\uf0b7 \nBake for 3",
-      "page_number": 2
-    },
-    {
-      "document": "Dinner Ideas - Mains_3.pdf",
-      "section_title": "Roast Beef",
-      "refined_text": "Roast Beef \nIngredients: \n\uf0b7 \n1 beef roast (3-4 pounds) \n\uf0b7 \n2 cloves garlic, minced \n\uf0b7 \n1 tablespoon fresh rosemary, chopped \n\uf0b7 \n1 tablespoon fresh thyme, chopped \n\uf0b7 \n1/4 cup olive oil \n\uf0b7 \nSalt and pepper to taste \nInstructions: \n\uf0b7 \nPreheat oven to 350\u00b0F (175\u00b0C). \n\uf0b7 \nIn a bowl, mix minced garlic, chopped rosemary, chopped thyme, olive oil, salt, and \npepper. \n\uf0b7 \nRub the mixture over the beef roast. \n\uf0b7 \nPlace the roast in a roasting pan and cook for 1 hour and 30 minutes until desired \ndoneness. \n",
-      "page_number": 3
-    },
-    {
       "document": "Dinner Ideas - Sides_1.pdf",
       "section_title": "Acaraj\u00e9",
       "refined_text": "Acaraj\u00e9 \n\uf0b7 \nIngredients:  \no 2 cups black-eyed peas \no 1 small onion \no 2 cloves garlic \no 1 teaspoon salt \no Oil for frying \n\uf0b7 \nInstructions: \no Soak black-eyed peas overnight, then peel and rinse. \no Blend peas with diced onion, minced garlic, and salt until smooth. \no Form mixture into balls and fry in hot oil until golden. \no Drain on paper towels and serve warm. \n \nAgedashi Tofu \n\uf0b7 \nIngredients: \no 1 block tofu \no 1/4 cup cornstarch \no 1 cup dashi broth \no 2 tablespoons soy sauce \no 1 table",
       "page_number": 2
-    },
-    {
-      "document": "Dinner Ideas - Sides_1.pdf",
-      "section_title": "o Add potatoes and cauliflower, stir to coat with spices.",
-      "refined_text": "o Add potatoes and cauliflower, stir to coat with spices. \no Cover and cook until vegetables are tender, stirring occasionally. \no Add salt to taste and serve. \n \nAlbondigas \n\uf0b7 \nIngredients: \no 1/2 pound ground beef \no 1/2 pound ground pork \no 1 small onion \no 2 cloves garlic \no 1/4 cup breadcrumbs \no 1 egg \no 1 teaspoon paprika \no 1 teaspoon salt \no 1/2 teaspoon pepper \no 1/4 cup olive oil \no 1 cup tomato sauce \n\uf0b7 \nInstructions: \no Mix ground beef, ground pork, diced onion, minced garlic, bread",
-      "page_number": 3
     },
     {
       "document": "Dinner Ideas - Sides_2.pdf",
@@ -425,34 +299,10 @@
       "page_number": 2
     },
     {
-      "document": "Dinner Ideas - Sides_2.pdf",
-      "section_title": "o 2 tablespoons butter",
-      "refined_text": "o 2 tablespoons butter \n\uf0b7 \nInstructions: \no Preheat oven to 400\u00b0F (200\u00b0C). \no Spread b\u00e9chamel sauce on 4 slices of bread. \no Top with ham and grated cheese, then cover with remaining bread slices. \no Melt butter in a pan and toast sandwiches until golden. \no Transfer to a baking sheet, top with more b\u00e9chamel sauce and cheese. \no Bake for 10 minutes until cheese is melted and bubbly. \no Serve warm. \n \nCroquetas \n\uf0b7 \nIngredients: \no 1/2 cup butter \no 1/2 cup flour \no 2 cups milk \no 1/2 cup ham \no 1",
-      "page_number": 3
-    },
-    {
-      "document": "Dinner Ideas - Sides_3.pdf",
-      "section_title": "o 2 cloves garlic",
-      "refined_text": "o 2 cloves garlic \no 4 tomatoes \no 4 cups vegetable broth \no 1 teaspoon cumin \no 1 teaspoon coriander \no 1 teaspoon turmeric \no 1 teaspoon salt \no 1/4 cup cilantro \n\uf0b7 \nInstructions: \no Saut\u00e9 diced onion and minced garlic until softened. \no Add diced tomatoes, lentils, chickpeas, vegetable broth, cumin, coriander, \nturmeric, and salt. \no Simmer for 30 minutes until lentils are tender. \no Stir in chopped cilantro and serve warm. \n \nHorta \n\uf0b7 \nIngredients: \no 1 pound dandelion greens \no 1/4 cup oliv",
-      "page_number": 1
-    },
-    {
       "document": "Dinner Ideas - Sides_3.pdf",
       "section_title": "Hummus",
       "refined_text": "Hummus \n\uf0b7 \nIngredients: \no 1 can chickpeas \no 1/4 cup tahini \no 1/4 cup lemon juice \no 2 cloves garlic \no 1/4 cup olive oil \no 1 teaspoon salt \n\uf0b7 \nInstructions: \no Drain and rinse chickpeas. \no Blend chickpeas, tahini, lemon juice, minced garlic, and salt in a food processor. \no Slowly add olive oil while blending until smooth. \no Serve with a drizzle of olive oil. \n \nJapchae \n\uf0b7 \nIngredients: \no 8 ounces sweet potato noodles \no 1/2 pound beef \no 1 small onion \no 1 carrot \no 1 bell pepper \no 1 cu",
       "page_number": 2
-    },
-    {
-      "document": "Dinner Ideas - Sides_3.pdf",
-      "section_title": "o 1/4 cup olive oil",
-      "refined_text": "o 1/4 cup olive oil \n\uf0b7 \nInstructions: \no Toss vegetables with minced garlic, jerk seasoning, and olive oil. \no Roast at 400\u00b0F (200\u00b0C) until tender. \no Serve warm. \n \nJohnny Cakes \n\uf0b7 \nIngredients: \no 2 cups flour \no 1/4 cup sugar \no 1 tablespoon baking powder \no 1/2 teaspoon salt \no 1/4 cup butter \no 1/2 cup milk \no Oil for frying \n\uf0b7 \nInstructions: \no Mix flour, sugar, baking powder, and salt in a bowl. \no Cut in cold butter until mixture resembles coarse crumbs. \no Add milk and stir until dough ",
-      "page_number": 3
-    },
-    {
-      "document": "Dinner Ideas - Sides_4.pdf",
-      "section_title": "o Scramble eggs in the same pan.",
-      "refined_text": "o Scramble eggs in the same pan. \no Add noodles, fish sauce, tamarind paste, sugar, and lime juice, stir to combine. \no Add bean sprouts, cooked shrimp, and chopped green onions. \no Garnish with crushed peanuts and serve. \n \nPajeon (Pancakes) \n\uf0b7 \nIngredients: \no 1 cup flour \no 1 cup water \no 1 egg \no 1/2 cup green onions \no 1/2 cup seafood (optional) \no 1 tablespoon soy sauce \no 1 tablespoon sesame oil \n\uf0b7 \nInstructions: \no Mix flour, water, and beaten egg in a bowl. \no Add chopped green onions a",
-      "page_number": 1
     },
     {
       "document": "Dinner Ideas - Sides_4.pdf",
@@ -476,6 +326,36 @@
       "document": "Lunch Ideas.pdf",
       "section_title": "Greek Yogurt Parfait",
       "refined_text": "Greek Yogurt Parfait \nIngredients: \n\u2022 \n1 cup Greek yogurt \n\u2022 \n1/2 cup granola \n\u2022 \n1/2 cup mixed berries (strawberries, blueberries, raspberries) \n\u2022 \n1 tablespoon honey \nInstructions: \n\u2022 \nIn a bowl or jar, layer the Greek yogurt, granola, and mixed berries. \n\u2022 \nDrizzle with honey. \n\u2022 \nRepeat the layers if desired. \n \n \n \nHummus and Veggie Pita \nIngredients: \n\u2022 \n1 whole wheat pita bread \n\u2022 \n1/2 cup hummus \n\u2022 \n1/2 cup cucumber, sliced \n\u2022 \n1/2 cup bell pepper, sliced \n\u2022 \n1/4 cup shredded carrots \n\u2022 ",
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Quiche Lorraine",
+      "refined_text": "Quiche Lorraine \nIngredients: \n\uf0b7 \n1 pie crust \n\uf0b7 \n6 slices bacon, cooked and crumbled \n\uf0b7 \n1 small onion, diced \n\uf0b7 \n1 cup grated Gruy\u00e8re cheese \n\uf0b7 \n3 eggs \n\uf0b7 \n1 cup heavy cream \n\uf0b7 \n1/2 teaspoon salt \n\uf0b7 \n1/4 teaspoon pepper \nInstructions: \n\uf0b7 \nPreheat oven to 375\u00b0F (190\u00b0C). \n\uf0b7 \nPlace pie crust in a pie dish. \n\uf0b7 \nSprinkle cooked bacon, diced onion, and grated Gruy\u00e8re cheese over the crust. \n\uf0b7 \nIn a bowl, whisk eggs, heavy cream, salt, and pepper. \n\uf0b7 \nPour egg mixture over the filling. \n\uf0b7 \nBake for 3",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Roast Beef",
+      "refined_text": "Roast Beef \nIngredients: \n\uf0b7 \n1 beef roast (3-4 pounds) \n\uf0b7 \n2 cloves garlic, minced \n\uf0b7 \n1 tablespoon fresh rosemary, chopped \n\uf0b7 \n1 tablespoon fresh thyme, chopped \n\uf0b7 \n1/4 cup olive oil \n\uf0b7 \nSalt and pepper to taste \nInstructions: \n\uf0b7 \nPreheat oven to 350\u00b0F (175\u00b0C). \n\uf0b7 \nIn a bowl, mix minced garlic, chopped rosemary, chopped thyme, olive oil, salt, and \npepper. \n\uf0b7 \nRub the mixture over the beef roast. \n\uf0b7 \nPlace the roast in a roasting pan and cook for 1 hour and 30 minutes until desired \ndoneness. \n",
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "o 2 tablespoons butter",
+      "refined_text": "o 2 tablespoons butter \n\uf0b7 \nInstructions: \no Preheat oven to 400\u00b0F (200\u00b0C). \no Spread b\u00e9chamel sauce on 4 slices of bread. \no Top with ham and grated cheese, then cover with remaining bread slices. \no Melt butter in a pan and toast sandwiches until golden. \no Transfer to a baking sheet, top with more b\u00e9chamel sauce and cheese. \no Bake for 10 minutes until cheese is melted and bubbly. \no Serve warm. \n \nCroquetas \n\uf0b7 \nIngredients: \no 1/2 cup butter \no 1/2 cup flour \no 2 cups milk \no 1/2 cup ham \no 1",
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "o 2 cloves garlic",
+      "refined_text": "o 2 cloves garlic \no 4 tomatoes \no 4 cups vegetable broth \no 1 teaspoon cumin \no 1 teaspoon coriander \no 1 teaspoon turmeric \no 1 teaspoon salt \no 1/4 cup cilantro \n\uf0b7 \nInstructions: \no Saut\u00e9 diced onion and minced garlic until softened. \no Add diced tomatoes, lentils, chickpeas, vegetable broth, cumin, coriander, \nturmeric, and salt. \no Simmer for 30 minutes until lentils are tender. \no Stir in chopped cilantro and serve warm. \n \nHorta \n\uf0b7 \nIngredients: \no 1 pound dandelion greens \no 1/4 cup oliv",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "o 1/4 cup olive oil",
+      "refined_text": "o 1/4 cup olive oil \n\uf0b7 \nInstructions: \no Toss vegetables with minced garlic, jerk seasoning, and olive oil. \no Roast at 400\u00b0F (200\u00b0C) until tender. \no Serve warm. \n \nJohnny Cakes \n\uf0b7 \nIngredients: \no 2 cups flour \no 1/4 cup sugar \no 1 tablespoon baking powder \no 1/2 teaspoon salt \no 1/4 cup butter \no 1/2 cup milk \no Oil for frying \n\uf0b7 \nInstructions: \no Mix flour, sugar, baking powder, and salt in a bowl. \no Cut in cold butter until mixture resembles coarse crumbs. \no Add milk and stir until dough ",
       "page_number": 3
     }
   ]
